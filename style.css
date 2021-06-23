@@ -236,6 +236,9 @@ footer {
     margin-bottom:10px;
     margin-right:25px;
 }
+.f-b-right ul li:hover {
+    text-decoration:underline;
+}
 .fa-bars {
     display:none;
 }
